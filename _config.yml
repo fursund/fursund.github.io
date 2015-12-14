@@ -1,7 +1,7 @@
-title:            Jens Fursund
+title:            
 description:      
 disqus_shortname: hpstrtheme
-reading_time:     true
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -11,14 +11,14 @@ url: #jens.fursund.com
 owner:
   name:           Jens Fursund
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Doing computer graphics R&D."
   email:          jens@fursund.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        jensfursund
   facebook:       
   github:         
   stackexchange:  
-  linkedin:       
+  linkedin:       jensfursund
   instagram:      
   flickr:         
   tumblr:         
@@ -49,7 +49,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 20
 
 page:
   
