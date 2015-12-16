@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/lightmaps/</loc>
+    <loc>jens.fursund.com/lightmaps/</loc>
     <lastmod>2015-12-14T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/ilm/</loc>
+    <loc>jens.fursund.com/ilm/</loc>
     <lastmod>2015-12-14T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/aesir/</loc>
+    <loc>jens.fursund.com/aesir/</loc>
     <lastmod>2015-12-14T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/dsc/</loc>
+    <loc>jens.fursund.com/dsc/</loc>
     <lastmod>2015-12-13T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/volumesppm/</loc>
+    <loc>jens.fursund.com/volumesppm/</loc>
     <lastmod>2015-12-12T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/fluid/</loc>
+    <loc>jens.fursund.com/fluid/</loc>
     <lastmod>2015-12-11T00:00:00-05:00</lastmod>
   </url>
   <url>
-    <loc>/404.html</loc>
+    <loc>jens.fursund.com/404.html</loc>
   </url>
   <url>
-    <loc>/posts/</loc>
+    <loc>jens.fursund.com/posts/</loc>
   </url>
   <url>
-    <loc>/</loc>
+    <loc>jens.fursund.com/</loc>
   </url>
   <url>
-    <loc>/tags/</loc>
+    <loc>jens.fursund.com/tags/</loc>
   </url>
   <url>
-    <loc>/about/</loc>
+    <loc>jens.fursund.com/about/</loc>
   </url>
   <url>
-    <loc>/theme-setup/</loc>
+    <loc>jens.fursund.com/theme-setup/</loc>
   </url>
 </urlset>
