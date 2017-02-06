@@ -4,13 +4,34 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-16T04:55:29-05:00</updated>
+<updated>2017-02-06T15:32:49-05:00</updated>
 <id>/</id>
 <author>
   <name>Jens Fursund</name>
   <uri>/</uri>
   <email>jens@fursund.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Pinscreen - 3D virtual avatars]]></title>
+ <link rel="alternate" type="text/html" href="/pinscreen/" />
+  <id>/pinscreen</id>
+  <published>2017-02-06T00:00:00-05:00</published>
+  <updated>2017-02-06T00:00:00-05:00</updated>
+  <author>
+    <name>Jens Fursund</name>
+    <uri></uri>
+    <email>jens@fursund.com</email>
+  </author>
+  <content type="html">
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qX8AIRsFmTA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;At Pinscreen we’re working on creating 3D virtual avatars with as little input as possible, using a combination of computer graphics, computer vision and machine learning.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/pinscreen/&quot;&gt;Pinscreen - 3D virtual avatars&lt;/a&gt; was originally published by Jens Fursund at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on February 06, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
@@ -27,7 +48,7 @@
   <content type="html">
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/qcLBFVFUsI8?start=2233&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
 
-&lt;p&gt;At Imagination Technologies I am a lead engineer for the Unity 5 Lightmapping project. Check this video out to get an idea what I am working on.&lt;/p&gt;
+&lt;p&gt;At Imagination Technologies I was a lead engineer on the Unity 5 Progresive Lightmapper project, which is released in Unity 5.6. Check my presentation out to get an idea of what I was working on. See &lt;a href=&quot;https://pinscreen.com/&quot;&gt;pinscreen.com&lt;/a&gt; for more news!&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;/lightmaps/&quot;&gt;Lightmapping for Unity&lt;/a&gt; was originally published by Jens Fursund at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; on December 14, 2015.&lt;/p&gt;
   </content>
